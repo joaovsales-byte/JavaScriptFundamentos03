@@ -5,3 +5,9 @@ const total = valores.reduce(
 );
 
 console.log(total);
+
+// map() transforma cada item
+// filter() filtra item
+// some() algum atende?
+// every() todos atendem?
+// reduce() acumula tudo em um resultado
