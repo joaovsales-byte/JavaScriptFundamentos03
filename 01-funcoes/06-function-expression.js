@@ -6,5 +6,9 @@ const somarAnonima = function (a, b){
     return a + b;
 }
 
+const arrowFunction = (a,b) =>{
+    return a + b
+}
 console.log(somarTradicional(10,5));
 console.log(somarAnonima(10,5));
+console.log(arrowFunction(10, 5))
