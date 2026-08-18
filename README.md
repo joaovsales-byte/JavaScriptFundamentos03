@@ -33,7 +33,7 @@ Funções permitem organizar e reutilizar códigos.
 
 ```javascript
     fuction saudacao(){
-        console.log("Olá!);
+        console.log("Olá!");
     }
 
     saudacao();
