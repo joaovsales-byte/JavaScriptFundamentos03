@@ -1,0 +1,7 @@
+const respostaAPI = '[{"id":1, "nome": "Arthur"}, {"id":2, "nome": "Carlos"}]';
+
+const usuarios = JSON.parse(respostaAPI);
+
+usuarios.forEach( aluno =>{
+    console.log(aluno.nome);
+})
